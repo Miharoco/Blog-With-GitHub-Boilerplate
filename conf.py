@@ -14,10 +14,10 @@ enable_jsdelivr = {
 }
 
 # 站点设置
-site_name = "我的个人博客"
+site_name = "MiharoNico Wiki"
 site_logo = "${static_prefix}logo.png"
 site_build_date = "2019-12-18T16:51+08:00"
-author = "咕咕三原"
+author = "MiharoNico"
 email = "admin@咕咕三原.wang"
 author_homepage = "https://咕咕三原.wang"
 description = "记录美好，赠与未来。"
@@ -26,29 +26,29 @@ language = 'zh-CN'
 template="Kepler"
 external_links = [
     {
-        "name": "Maverick",
-        "url": "https://github.com/AlanDecode/Maverick",
-        "brief": "🏄‍ Go My Own Way."
+        "name": "Blog",
+        "url": "https://咕咕三原.wang",
+        "brief": "MiharoNico Blog."
     },
     {
-        "name": "三無計劃",
-        "url": "https://www.imalan.cn",
-        "brief": "熊猫小A的主页。"
+        "name": "Diary",
+        "url": "https://diary.咕咕三原.wang",
+        "brief": "MiharoNico Diary"
     }
 ]
 nav = [
     {
-        "name": "首页",
+        "name": "Home",
         "url": "${site_prefix}",
         "target": "_self"
     },
     {
-        "name": "归档",
+        "name": "Archives",
         "url": "${site_prefix}archives/",
         "target": "_self"
     },
     {
-        "name": "关于",
+        "name": "About",
         "url": "${site_prefix}about/",
         "target": "_self"
     }
