@@ -8,15 +8,11 @@ author: AlanDecode
 categories: 
   - Maverick
   - Dev
-tags: 
-  - theme
 ---
 
-这里是我的个人博客，通过 GitHub 管理与构建。
+これは私の個人wikiです。ここで自分が直面して解決した問題と普段の学習ノートを記録します。少しでも助けてあげたいです。
 
 
 ## Contact
 
-Email: hi#imalan.cn (replace # with @)
-
-Telegram：[AlanDecode](https://t.me/alandecode)
+Email: admin#咕咕三原.wang (replace # with @)
