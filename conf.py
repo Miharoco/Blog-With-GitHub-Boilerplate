@@ -23,6 +23,7 @@ author_homepage = "https://咕咕三原.wang"
 description = "记录美好，赠与未来。"
 key_words = ['Maverick', '咕咕三原',  'wiki']
 language = 'zh-CN'
+template="Kepler"
 external_links = [
     {
         "name": "Maverick",
@@ -56,17 +57,17 @@ nav = [
 social_links = [
     {
         "name": "Twitter",
-        "url": "https://twitter.com/AlanDecode",
+        "url": "https://twitter.com/MiharoCo",
         "icon": "gi gi-twitter"
     },
     {
         "name": "GitHub",
-        "url": "https://github.com/AlanDecode",
+        "url": "https://github.com/MiharoCo",
         "icon": "gi gi-github"
     },
     {
         "name": "Weibo",
-        "url": "https://weibo.com/5245109677/",
+        "url": "https://weibo.com/6339337866/",
         "icon": "gi gi-weibo"
     }
 ]
