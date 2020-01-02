@@ -21,7 +21,7 @@ author = "咕咕三原"
 email = "admin@咕咕三原.wang"
 author_homepage = "https://咕咕三原.wang"
 description = "记录美好，赠与未来。"
-key_words = ['Maverick', '熊猫小A', 'Galileo', 'blog']
+key_words = ['Maverick', '咕咕三原',  'wiki']
 language = 'zh-CN'
 external_links = [
     {
